@@ -1,6 +1,6 @@
 # About
 
-This is not original package. I got it [portainer/portainer-compose](from https://github.com/portainer/portainer-compose) and left in source only what I need.
+This is not original package. I got it from [portainer/portainer-compose](https://github.com/portainer/portainer-compose) and left in source only what I need.
 
 
 # Install
